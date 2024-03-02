@@ -1,4 +1,7 @@
-<p align="center">
+Done this project
+<p ali![Screenshot (694)](https://github.com/priyakakumariops/AquilaCMS/assets/136331805/5719fc18-c07d-40a6-9f6a-295a14489057)
+  gn="ce![Screenshot (696)](https://github.com/priyakakumariops/AquilaCMS/assets/136331805/cd86e4d7-7efd-49be-97af-c25bc6414bea)
+nter">
   <a href="https://www.aquila-cms.com"><img width="200" height="183" src="https://www.aquila-cms.com/images/medias/200x183-90/5eb883a6e88bcc4391038570/AquilaCMS.png"></a>
 </p>
 
